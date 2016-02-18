@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">StarBuzz</string>
+
+    <string name="starbuzz_logo">StarBuzz logo</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="list_mainmenu">
+        <item>Drinks</item>
+        <item>Food</item>
+        <item>Stores</item>
+    </string-array>
+    <string name="Drink_catActivity_label">Drinks Menu</string>
+    <string name="title_activity_drink">DrinkActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="chkbox_drinkactivity_fav">Favourite</string>
+    <string name="txt_toplevelactivity_favlist">Favourite Drink List:</string>
+</resources>
